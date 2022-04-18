@@ -3,5 +3,6 @@
 # showdown.space
 
 - [Discord server](https://warp.showdown.space/discord)
+- [Twitch channel](https://warp.showdown.space/twitch)
 - [Figma](https://warp.showdown.space/figma)
 - [Notion](https://warp.showdown.space/notion)
