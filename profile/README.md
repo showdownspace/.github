@@ -2,6 +2,8 @@
 
 # showdown.space
 
+_showdown.space_ hosts community events in the form of recreational tech contests.
+
 - [Discord server](https://warp.showdown.space/discord)
 - [Twitch channel](https://warp.showdown.space/twitch)
 - [Figma](https://warp.showdown.space/figma)
